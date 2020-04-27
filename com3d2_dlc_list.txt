@@ -242,7 +242,7 @@ CM3D2联动包
 [Denkigai 2019 Summer] [Mumuta Costume Set 2] (denkigai2019smumuta)
 [Denkigai 2019 Summer] [Stick Poster] [Maid Secretary] (denkigai2019ssposter1)
 [Denkigai 2019 Summer] [Stick Poster] [Imouto] (denkigai2019ssposter2)
-[Denkigai 2019 Summer] [Stick Poster] [Maid Secretary] (denkigai2019ssposter3)
+[Denkigai 2019 Summer] [Stick Poster] [Wary] (denkigai2019ssposter3)
 [Denkigai 2019 Winter] [Item Set] (denkigai2019w)
 [Denkigai 2019 Winter] [Ojousama Personality Pack Poster] (denkigai2019wposter)
 
