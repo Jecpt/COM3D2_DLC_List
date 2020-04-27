@@ -286,7 +286,7 @@ Chu-B Lip
 [S-Court CR Shop] [Legendary Maid Uniform] (yomeidokanteidan_legendmaid)
 [S-Court CR Shop] [Luxurious Fantasy Gun Set] (yomeidokanteidan_superguneset)
 [S-Court CR Shop] [Luxurious Piercings] (yomeidokanteidan_accset_b)
-[S-Court CR Shop] [Luxurious Real Gun Set] yomeidokanteidan_realguneset
+[S-Court CR Shop] [Luxurious Real Gun Set] (yomeidokanteidan_realguneset)
 [S-Court CR Shop] [Master's Sword] (yomeidokanteidan_swordset)
 [S-Court CR Shop] [Mini Event Set Vol.1] (crshop001)
 [S-Court CR Shop] [Mini Event Set Vol.2] (crshop002)
