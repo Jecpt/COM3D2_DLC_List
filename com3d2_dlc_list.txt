@@ -223,7 +223,6 @@ CM3D2联动包
 [COM3D2 Shop] [2nd Anniversary Event] (2ndanniversary)
 [A.K.Pack Trial Version] (april2020)
 [COM3D2 Shop] [KISS Event 2018 March Item Set] (kissevent2018)
-[COM3D2 Shop] [KISS Event 2018 - KISS 20th Anniversary Memorial Book Desktop Item] (kissevent2018_2)
 
 -Denkigai Festivals-
 電気外祭り
@@ -241,6 +240,7 @@ CM3D2联动包
 [Denkigai 2018 Summer] [Yandere Personality Pack Poster] (denkigai2018sposteryandere)
 [Denkigai 2018 Winter] [Item Set] [Event Version] (denkigai2018w)
 [Denkigai 2018 Winter] [Gift Card] (denkigai2018wpcard)
+[Denkigai 2018 Winter] [1st Anniversary T-shirt] (denkigai2018wtshirt)
 [Denkigai 2018 Winter] [Mumuta Collab Costume] (denkigai2018wmumuta)
 2019
 [Denkigai 2019 Summer] [Item Set] (denkigai2019s)
@@ -273,8 +273,8 @@ CM3D2联动包
 -Costume Pack / Date Costume Pack-
 コスチュームパック / デートコスチュームパック
 服装包 / 约会服装包
-[COM3D2 Shop] [Date Costume Pack] (cas001-002)
-[COM3D2 Shop] [Costume Pack] [2019 Winter] (sp006cloth1,cas003-006)
+[COM3D2 Shop] [Date Costume Pack 2019 Winter] (sp006cloth1,cas001-002)
+[COM3D2 Shop] [Costume Pack] (cas003-006)
 [COM3D2 Shop] [Costume Set] [Marine Sailor Set] (cas007-008)
 [COM3D2 Shop] [COM3D2 Costume Set Vol.6] (cas009-cas014)
 [COM3D2 Shop] [???] (cas015)
